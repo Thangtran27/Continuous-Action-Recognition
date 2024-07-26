@@ -34,3 +34,7 @@ To get the final TAL results, you need to perform postprocessing on
 ```
 python postprocessing.py
 ```
+To get Frame-wise Accuracy result, run the following command and check paths if need be:
+```
+python frame_wise_acc.py
+```
