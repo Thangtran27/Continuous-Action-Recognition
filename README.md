@@ -1,4 +1,5 @@
 ## Installing the environments
+In this project, I use Python 3.9 and I also suggest creating the environment with it.
 Please follow the installation instructions in [VideoMAE](https://github.com/MCG-NJU/VideoMAE). Also, you can simply run the following command:
 ```
 conda env create -f requirements.yaml
